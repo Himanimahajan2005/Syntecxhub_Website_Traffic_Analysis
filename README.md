@@ -1,5 +1,6 @@
 # Syntecxhub_Website_Traffic_Analysis
 Website Traffic Analysis  This project analyzes website traffic and user engagement data to uncover insights about user behavior, marketing channel performance, and website effectiveness.
+
 In this project, I performed Website Traffic Analysis using Python to understand user behavior, traffic sources, and engagement patterns. I analyzed sessions, users, engagement rate, and average engagement time across different marketing channels such as Organic, Paid, Referral, and Social traffic.
 
 The project includes:
